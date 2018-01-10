@@ -1,0 +1,19 @@
+c:\users\student\documents\visual studio 2017\Projects\Memory\bin\Debug\Memory.exe.config
+c:\users\student\documents\visual studio 2017\Projects\Memory\bin\Debug\Memory.exe
+c:\users\student\documents\visual studio 2017\Projects\Memory\bin\Debug\Memory.pdb
+c:\users\student\documents\visual studio 2017\Projects\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\Memory\obj\Debug\Memory.Form1.resources
+c:\users\student\documents\visual studio 2017\Projects\Memory\obj\Debug\Memory.Properties.Resources.resources
+c:\users\student\documents\visual studio 2017\Projects\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2017\Projects\Memory\obj\Debug\Memory.exe
+c:\users\student\documents\visual studio 2017\Projects\Memory\obj\Debug\Memory.pdb
+C:\Users\user\Desktop\Memory\bin\Debug\Memory.exe.config
+C:\Users\user\Desktop\Memory\bin\Debug\Memory.exe
+C:\Users\user\Desktop\Memory\bin\Debug\Memory.pdb
+C:\Users\user\Desktop\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\user\Desktop\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Memory\obj\Debug\Memory.exe
+C:\Users\user\Desktop\Memory\obj\Debug\Memory.pdb
+C:\Users\user\Desktop\Memory\obj\Debug\Memory.MemoryForm.resources
